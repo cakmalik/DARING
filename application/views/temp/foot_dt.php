@@ -1,0 +1,1 @@
+<script src="<?= base_url('assets/adminlte34/') ?>dist/js/adminlte.js"></script>
